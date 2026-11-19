@@ -60,4 +60,4 @@ with urlopen(notification, timeout=15) as response:
 
 print(f"Latitude: {lat:.4f}")
 print(f"Longitude: {lon:.4f}")
-print("Notification published successfully.")
+print("ISS Tracker - Release 2.0")
